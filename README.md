@@ -15,7 +15,7 @@ github
   - [ ] node + mongodb 올리기.
   
 - [ ] 이력서 작성.
-- [x] test.
+
 읽어 볼 것
   - [ ] 디자이너: https://brunch.co.kr/@limteraction/1
   - [ ] 생산매니저: http://www.slideshare.net/yonghoon0126/ss-72605097
@@ -23,3 +23,8 @@ github
   - [ ] 마케터: https://www.slideshare.net/KitaiKim/ss-50204223
   - [ ] CTO: https://www.slideshare.net/ParkMijeong/ss-65069602
   - [ ] iOS 개발자: http://bit.ly/2pp6NnR
+  
+  - [x] 블록체인 영상 
+    - https://www.youtube.com/watch?v=662wnupQ8fg
+    - https://www.youtube.com/watch?v=-b_-hzWbxQo
+    - https://www.youtube.com/watch?v=xkp1PzeHr80
