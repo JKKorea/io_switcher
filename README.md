@@ -14,8 +14,8 @@ github
   - [ ] 문열림 감지기 코드 올리기.
   - [ ] node + mongodb 올리기.
   
-이력서 작성.
-
+- [ ] 이력서 작성.
+- [x] test.
 읽어 볼 것
   - [ ] 디자이너: https://brunch.co.kr/@limteraction/1
   - [ ] 생산매니저: http://www.slideshare.net/yonghoon0126/ss-72605097
