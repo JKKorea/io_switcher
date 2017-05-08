@@ -2,16 +2,16 @@
 switcher 준비과정
 
 # youtube
-  - [ ] 스마트 커튼 영상 올리기.
-  - [ ] 문열림 감지기 영상 올리기.
+  - [x] 스마트 커튼 영상 올리기. https://youtu.be/rkjlQZ1QfGQ
+  - [x] 문열림 감지기 영상 올리기. https://youtu.be/UoB2JB032YY
   - [ ] 스위처 영상 찍어서 올리기.
   
 # 블로그
   - [ ] 스위처 분석한 것 올리기.
 
 # github
-  - [ ] 스마트 커튼 코드 올리기.
-  - [ ] 문열림 감지기 코드 올리기.
+  - [ ] 스마트 커튼 코드 올리기. 
+  - [ ] 문열림 감지기 코드 올리기. 
   - [ ] node + mongodb 올리기.
   
 - [ ] 이력서 작성.
@@ -19,7 +19,7 @@ switcher 준비과정
 # 읽어 볼 것
   - [x] 디자이너: https://brunch.co.kr/@limteraction/1
     - IA(Information Architecture) -> 용어 통일 (가장 먼저 해야 할일.)
-    - 트렐로 사용경험 : 비영리단체 활동 시 트렐로, slack 사용.
+    - 트렐로, slack 사용경험 : 비영리단체 활동 시 트렐로, slack 사용.
     
   - [X] 생산매니저: http://www.slideshare.net/yonghoon0126/ss-72605097
     - 스크럼
@@ -61,7 +61,7 @@ switcher 준비과정
     - 나프다 컨퍼런스 - Scala
     
   - [x] iOS 개발자: http://bit.ly/2pp6NnR
-    - 리팩토링, TDD, 협업, 코드리뷰, 왜 일하는가?
+    - 리팩토링, TDD, 협업, 코드리뷰, 왜 일하는가? -> 정말 좋은 문화 + 성장
     
   - [x] 블록체인 영상 
     - https://www.youtube.com/watch?v=662wnupQ8fg
