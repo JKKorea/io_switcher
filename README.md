@@ -49,11 +49,11 @@ switcher 준비과정
     
     - 경쟁 제품 
       - 스마트 전구(http://theggumim.co.kr/product/detail.html?product_no=392&cate_no=1&display_group=2)
-        색깔이 바뀜, 가격이 33000원
+        색깔이 바뀜, 가격이 33000원 <br>
         안 이쁨. 전구 자체를 갈아야하는 어려움. 알게된 경로 : FB의 집꾸미기에 나옴.
      
       - lg 스마트 전구
-        전구, 색깔 바뀌고 기본기능, 장기외출모드, 촛불모드(왜 필요하나?), 7만9천원
+        전구, 색깔 바뀌고 기본기능, 장기외출모드, 촛불모드(왜 필요하나?), 7만9천원 <br>
         스위처와 lg 스마트 전구 비교(https://medium.com/@switcher/%EC%8A%A4%EC%9C%84%EC%B2%98-vs-lg-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%9E%A8%ED%94%84-dfbf17952967)
         
       - philips hue
