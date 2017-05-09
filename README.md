@@ -1,17 +1,24 @@
 # io_switcher
 switcher 준비과정
 
+- [x] 이력서 작성.
+
 # youtube
   - [x] 스마트 커튼 영상 올리기. https://youtu.be/rkjlQZ1QfGQ
   - [x] 문열림 감지기 영상 올리기. https://youtu.be/UoB2JB032YY
-  - [ ] 스위처 사용 영상 찍어서 올리기.
+  - [x] 스위처 사용 영상 찍어서 올리기. https://youtu.be/QHLalVsXmIE
 
 # github
   - [x] 스마트 커튼 코드 올리기. 
   - [x] 문열림 감지기 코드 올리기. 
   - [x] node + mongodb 올리기.
-  
-- [ ] 이력서 작성.
+
+# App
+  - [x] ios 사용해보기.
+    - 예약 편집 = 편집 버튼 터니 -> 예약 사항 터치
+    - (고려사항) 아이폰 기본 알람 어플 동작 방식과 같음.
+    - (개선사항) 직관적으로 바로 예약 사항을 터치하면 예약을 편집할 수 있게 하기.
+  - [x] android 사용해보기.
 
 # 읽어 볼 것
   - [x] 디자이너: https://brunch.co.kr/@limteraction/1
@@ -47,8 +54,7 @@ switcher 준비과정
      
       - lg 스마트 전구
         전구, 색깔 바뀌고 기본기능, 장기외출모드, 촛불모드(왜 필요하나?), 7만9천원
-        스위처와 lg 스마트 전구 비교
-        https://medium.com/@switcher/%EC%8A%A4%EC%9C%84%EC%B2%98-vs-lg-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%9E%A8%ED%94%84-dfbf17952967
+        스위처와 lg 스마트 전구 비교(https://medium.com/@switcher/%EC%8A%A4%EC%9C%84%EC%B2%98-vs-lg-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%9E%A8%ED%94%84-dfbf17952967)
         
       - philips hue
         전구, 애플 홈키트와 결합, 시리와 결합, 필립스 hue 스타터 킷(전구3개) 116150원
@@ -71,7 +77,7 @@ switcher 준비과정
   - sequelize는 무엇인가?
   - [x] node.js
   - [x] Express 
-  - [ ] sequelize 
+  - [ ] sequelize (https://www.youtube.com/watch?v=qsDvJrGMSUY&list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR)
   - [x] jdk 1.8
   - [x] Mysql
   - [x] MongoDB
