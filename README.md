@@ -4,9 +4,9 @@ switcher 준비과정
 - [x] 이력서 작성.
 
 # youtube
-  - [x] 스마트 커튼 영상 올리기. https://youtu.be/rkjlQZ1QfGQ
-  - [x] 문열림 감지기 영상 올리기. https://youtu.be/UoB2JB032YY
-  - [x] 스위처 사용 영상 찍어서 올리기. https://youtu.be/QHLalVsXmIE
+  - [x] <a href="https://youtu.be/rkjlQZ1QfGQ" target="_blank">스마트 커튼 영상 올리기.</a> 
+  - [x] <a href="https://youtu.be/UoB2JB032YY" target="_blank">문열림 감지기 영상 올리기.</a>
+  - [x] <a href="https://youtu.be/QHLalVsXmIE" target="_blank">스위처 사용 영상 찍어서 올리기.</a>
 
 # github
   - [x] 스마트 커튼 코드 올리기. 
