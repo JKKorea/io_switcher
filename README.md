@@ -77,7 +77,7 @@ switcher 준비과정
   - sequelize는 무엇인가?
   - [x] node.js
   - [x] Express 
-  - [ ] sequelize (https://www.youtube.com/watch?v=qsDvJrGMSUY&list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR)
+  - [x] sequelize (https://www.youtube.com/watch?v=qsDvJrGMSUY&list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR)
   - [x] jdk 1.8
   - [x] Mysql
   - [x] MongoDB
@@ -90,4 +90,4 @@ switcher 준비과정
 # 기타 사항
   - 스위처 구매 + Android + IOS 후기
     - <a href="http://www.1300k.com/shop/goodsDetail.html?f_goodsno=215023701959&from=nvrcps&NaPm=ct%3Dj2hgghvc%7Cci%3D76f99874426fbe12a042fbe23e3681d70a32ea51%7Ctr%3Dsls%7Csn%3D175394%7Chk%3D4b228b30503727de801fd87fec03031f3277f2f6#gdt_qa" target="_blank">박스 포장 관련.</a>
-      - 내가 받을 당시에도 박스가 약간 부실함. 스위처 자체는 디자인이 이뻐서 비교가 됨.
+      - 내가 받을 당시에도 박스가 약간 부실함. 스위처의 디자인이 이뻐서 비교가 됨.
